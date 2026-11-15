@@ -10,4 +10,8 @@ cmake ..
 make clean
 make
 cd ..
+echo "Current directory:"
+pwd
+echo "Directory contents:"
+ls -la
 ./build/assignment-autotest/assignment-autotest
